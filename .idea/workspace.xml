@@ -7,12 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c11d0662-9a3a-48fa-8756-66dff4e9e04a" name="Changes" comment="Тестовый репозиторий пуш">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/annotTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/annotTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/paramTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/paramTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="c11d0662-9a3a-48fa-8756-66dff4e9e04a" name="Changes" comment="Тестовый репозиторий пуш" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +74,7 @@
     "Gradle.paramTests.testLineage.executor": "Run",
     "Gradle.tests.executor": "Run",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "test",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Загрузки/ru-2024.3.1.zip",
