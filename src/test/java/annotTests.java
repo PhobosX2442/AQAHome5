@@ -19,6 +19,7 @@ public class annotTests {
 
 
     @Test    @Order(1)
+    @DisplayName("Тест на чётное число")
     //тест на чётное число
     void even() {
         boolean even = number.number(2);
@@ -27,6 +28,7 @@ public class annotTests {
 
     //тест на нечётное число
     @Test    @Order(2)
+    @DisplayName("Тест на нечётное число")
     void odd() {
         boolean odd = number.number(3);
         Assertions.assertFalse(odd);
@@ -34,6 +36,7 @@ public class annotTests {
 
     //тест на пустую строку
     @Test
+    @DisplayName("Тест на пустую строку")
     void notEmpty() {
         String testString = "Заглушка";
         Assertions.assertNotNull(testString);

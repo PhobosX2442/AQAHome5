@@ -1,3 +1,4 @@
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
 import org.junit.jupiter.params.provider.Arguments;
@@ -9,6 +10,7 @@ public class paramTests {
 
     @ParameterizedTest
     @MethodSource("lineage")
+    @DisplayName("Количество букв в строке")
     void testLineage(String word, int expected) throws InterruptedException {
         assertEquals(expected, word.length());
         Thread.sleep(500);
